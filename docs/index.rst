@@ -1,3 +1,6 @@
+*****
+IJ.Start.Canon : IJ Start Canon Setup : Https ij Start Canon
+*****
 Ij.start.canon is an American origin company providing many varieties of printers. Generally, there are two varieties of printers i.e. The laserjet and the Inkjet. But here we are going to discuss the inkjet printers. Also, we are going through the setup steps regarding the canon inkjet printers. For all the printer models you can follow the same procedure. So let's start the setup of your canon printers. But before this let's take overlook the features provided by canon.
 
 *****
@@ -10,8 +13,9 @@ Quality Printing: The quality provided by the canon printers is fantastic. The t
 All in One printing: The printer comes with an inbuilt scanner machine, a Fax machine, and color printing with black and white printing. The user is fully satisfied with all these features.
 Warranty: All the canon printers come with a warranty of at least 1 year. You can also apply for the extended warranty of 3 years on your product.
 Price: Among all the printer companies the specialty of the canon printers is the price tag. The canon printers are cheap ones.
+*****
 How to physically set up the canon printer after unboxing?
-
+*****
 After the unboxing the physical setup of the canon printer is necessary and it is done by;
 
 Place the canon printer on a clean table.
@@ -22,8 +26,9 @@ Turn on the switch and then come on the printer screen.
 Now after you connect your printer to the device, you can give a sample print.
 Then insert the USB cable's printer end into the USB socket present on the backside of the printer.
 That's the physical setting of the canon printer.
+*****
 How to connect the canon printer using the wireless connection?
-
+*****
 You will need Wifi router as well as a printer supporting wireless connectivity. So let's start the process;
 
 First of all, turn on your ij.start.canon printer.
@@ -43,9 +48,9 @@ Finally, the printer will take a printout that your wireless connection is succe
 If it's unsuccessful, then you will also get the reason for being unsuccessful connectivity.
 
 Note: For the wired connection, you will need to connect the USB wire to the USB port of your device.
-
+*****
 How to set up the canon printer for windows devices?
-
+*****
 To set up the canon printer for your windows device you need to follow the driver downloading and installing it. So let's start.
 
 Take your windows device i.e  Windows laptop or Pc.
@@ -74,8 +79,9 @@ Here we recommend you select all the files.
 Now press the next button and then finally press the Install button.
 Wait for a few minutes and your driver file will get installed.
 Open it and then select any file and give the print command.
+*****
 How to set up the canon printer for Android devices?
-
+*****
 The main difference here is the connectivity as well as the Downloading and installation of the driver.
 
 The driver name for the android file is ij.start.canon Print Inkjet/SELPHY.

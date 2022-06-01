@@ -1,6 +1,2 @@
 theme: jekyll-theme-cayman
-add_action( 'wp_head', function(){
-    ?>
-    <meta name="msvalidate.01" content="992BB8817DFD301763B1B652BC829C92" />
-    <?php
-});
+<head><meta name="msvalidate.01" content="992BB8817DFD301763B1B652BC829C92" /></head>
